@@ -1,4 +1,4 @@
-class SwiftformatATZERODOTTWENTYFIVEDOTONE < Formula
+class SwiftformatAT0251 < Formula
   desc "Formatting tool for reformatting Swift code"
   homepage "https://github.com/nicklockwood/SwiftFormat"
   url "https://github.com/nicklockwood/SwiftFormat/archive/0.25.1.tar.gz"
